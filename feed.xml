@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>laurenharris.design</title>
+    <link href="https://laharris833-prog.github.io/Portfolio/feed.xml" rel="self" />
+    <link href="https://laharris833-prog.github.io/Portfolio" />
+    <updated>2026-02-19T16:47:21+09:00</updated>
+    <author>
+        <name>Lauren Harris</name>
+    </author>
+    <id>https://laharris833-prog.github.io/Portfolio</id>
+
+    <entry>
+        <title>UI/UX - Mitchell&#x27;s Ice-cream Project</title>
+        <author>
+            <name>Lauren Harris</name>
+        </author>
+        <link href="https://laharris833-prog.github.io/Portfolio/uiux-mitchells-ice-cream-project.html"/>
+        <id>https://laharris833-prog.github.io/Portfolio/uiux-mitchells-ice-cream-project.html</id>
+
+        <updated>2026-02-19T14:18:05+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Mitchell’s Homemade Ice Cream: A Digital &amp; Physical Brand Design The goal was to create a cohesive brand extension for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<div class="post__toc">
+<h3>🍨 Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1jhqdiea6ci">Mitchell’s Homemade Ice Cream: A Digital &amp; Physical Brand Design</a></li>
+<li><a href="#mcetoc_1jhqdiea6cj">Physical Touchpoints - Marketing Extensions</a></li>
+</ul>
+</div>
+<h5 id="mcetoc_1jhqdiea6ci">Mitchell’s Homemade Ice Cream: A Digital &amp; Physical Brand Design</h5>
+<p>The goal was to create a cohesive brand extension for a beloved local ice cream brand in Cleveland, OH. This initiative includes a full UI/UX mobile app and ordering system, as well as a line of brand merchandise designed to deepen customer loyalty.</p>
+</blockquote>
+<figure class="post__image"><img loading="lazy"  style="outline: rgba(13, 139, 242, 0.55) solid 3px !important;" src="https://laharris833-prog.github.io/Portfolio/media/posts/2/16e65af0-9f30-4598-8642-2300629fc35e_rw_1200.gif" alt="" width="926" height="521"></figure>
+<ul style="list-style-type: circle;">
+<li><i data-path-to-node="7,1,1,0,0" data-index-in-node="0">Screen 1:</i> The Menu/Flavor Selection.</li>
+<li data-path-to-node="7,1,1,0,0"><i data-path-to-node="7,1,1,1,0" data-index-in-node="0">Screen 2:</i> The Customization/Toppings.</li>
+<li data-path-to-node="7,1,1,0,0"><i data-path-to-node="7,1,1,2,0" data-index-in-node="0" style="font-size: inherit;">Screen 3:</i><span style="font-size: inherit;"> The Checkout/Rewards Integration.</span></li>
+</ul>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">
+<p> </p>
+<p>The app architecture focuses on a seamless ordering process. The design encourages repeat purchases while maintaining the brand's friendly, approachable aesthetic.</p>
+</td>
+<td style="width: 49.9288%;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/2/Untitled-design-2-3.gif" alt="" width="1080" height="1920"></figure></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<h5 id="mcetoc_1jhqdiea6cj">Physical Touchpoints - Marketing Extensions</h5>
+<p>To complement marketing initiatives, I developed a series of physical assets. The merchandise serves as a physical advertisement, while the hiring flyer utilizes the brand's aesthetic to maintain professional consistency across all locations.</p>
+</blockquote>
+<table style="border-collapse: collapse; width: 139.174%; height: 420px;" border="1">
+<tbody>
+<tr style="height: 280.109px;">
+<td style="width: 33.4016%; height: 280.109px;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/2/Untitled-design-4.png" alt="" width="686" height="888" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-4-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-4-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-4-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-4-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-4-xl.png 1600w"></figure></td>
+<td style="width: 33.4016%; height: 280.109px;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/2/Untitled-design-3.png" alt="" width="1324" height="874" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-3-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-3-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-3-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-3-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-3-xl.png 1600w"></figure></td>
+<td style="width: 33.2992%; height: 280.109px;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/2/Untitled-design-2.png" alt="" width="1336" height="881" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-2-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-2-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-2-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-2-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/2/responsive/Untitled-design-2-xl.png 1600w"></figure></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<h6 data-path-to-node="2"> </h6>
+<p> </p>
+<p> </p>
+<p> </p>
+<h6 data-path-to-node="2"><strong data-path-to-node="2" data-index-in-node="0">Technical Specifications</strong></h6>
+<h6 data-path-to-node="2"><em><strong style="font-family: sans-serif; font-size: inherit;" data-path-to-node="3,0,0" data-index-in-node="0">Tools:</strong><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;"> Canva (Advanced Prototyping &amp; Motion Design), Adobe Illustrator (Vector Branding), Photoshop (Product Mockups).</span></em></h6>
+<h6 data-path-to-node="2"><em><strong style="font-family: sans-serif; font-size: inherit;" data-path-to-node="3,1,0" data-index-in-node="0">Focus:</strong><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;"> UI/UX Information Architecture, Motion Graphics, Visual Brand Consistency, and Print-to-Digital Scalability.</span></em></h6>
+<h6 data-path-to-node="2"><em><strong style="font-family: sans-serif; font-size: inherit;" data-path-to-node="3,2,0" data-index-in-node="0">Core Skills:</strong><span style="color: #313339; font-family: sans-serif; font-size: inherit; font-weight: 400;"> Interaction Design, User Flow Optimization, and 360° Marketing Execution.</span></em></h6>
+</blockquote>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>3D Blender Project - Pottery Barn Harriston Collection</title>
+        <author>
+            <name>Lauren Harris</name>
+        </author>
+        <link href="https://laharris833-prog.github.io/Portfolio/3d-blender-project-pottery-barn-harriston-collection.html"/>
+        <id>https://laharris833-prog.github.io/Portfolio/3d-blender-project-pottery-barn-harriston-collection.html</id>
+
+        <updated>2026-02-19T09:30:55+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Developed a high-quality 3D environment in Blender to simulate a marketing campaign for the 'Harriston Collection' - an imaginative furniture&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote data-path-to-node="4">
+<p data-path-to-node="4,0"><i data-path-to-node="4,0" data-index-in-node="0">Developed a high-quality 3D environment in Blender to simulate a marketing campaign for the 'Harriston Collection' - an imaginative furniture collection based on the American brand, Pottery Barn. </i></p>
+</blockquote>
+<figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Picture-5.png" alt="" width="843" height="982" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-5-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-5-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-5-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-5-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-5-xl.png 1600w"></figure>
+<blockquote>
+<p data-path-to-node="8,1,1,0,0"><strong data-path-to-node="8,1,1,0,0" data-index-in-node="0">Software:</strong> Blender (Cycles Render Engine)</p>
+<p data-path-to-node="8,1,1,0,0"><strong style="font-family: sans-serif; font-size: inherit;" data-path-to-node="8,1,1,1,0" data-index-in-node="0"><em>Techniques</em>:</strong><span style="font-family: sans-serif; font-size: inherit;"> PBR Texturing, Global Illumination, Virtual Staging</span></p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-1.png" data-size="1633x1080"><img loading="lazy" src="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-1-thumbnail.png" alt="" width="768" height="508"></a>
+<figcaption>2-Stage Lighting - Left Side Scene</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-7-1.png" data-size="915x1028"><img loading="lazy" src="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-7-1-thumbnail.png" alt="CGI Interior Render Blender Cycles" width="768" height="863"></a>
+<figcaption>3-Stage Lighting - Left Side Scene</figcaption>
+</figure>
+</div></div>
+<ul>
+<li><strong data-path-to-node="3,1,0" data-index-in-node="0">2-Stage Lighting Enhancement:</strong> Applied post-render lighting passes to refine specular highlights and atmospheric depth.</li>
+<li>
+<p data-path-to-node="3,0,0"><strong data-path-to-node="3,0,0" data-index-in-node="0">3-Stage Lighting Enhancement: </strong>Utilized a Key, Fill, and Rim light configuration in Blender Cycles to establish realistic volume and product separation.</p>
+</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-6-3.png" data-size="915x1028"><img loading="lazy" src="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-6-3-thumbnail.png" alt="" width="768" height="863"></a></figure>
+<figure class="gallery__item"><a href="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-5-3.png" data-size="843x982"><figure class="align-center"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/gallery/Picture-5-3-thumbnail.png" alt="" width="768" height="895"></figure></a></figure>
+</div></div>
+<figure class="post__image align-center"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Picture-4-2.png" alt="" width="843" height="982" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-4-2-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-4-2-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-4-2-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-4-2-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Picture-4-2-xl.png 1600w"></figure>
+<blockquote>
+<h4>Marketing Initiatives</h4>
+<p><strong data-path-to-node="5,1,1,0" data-index-in-node="0">Execution:</strong> Integrated custom-modeled 3D rendering into a high-end editorial layout, utilizing brand-specific typography and copywriting to mimic the Pottery Barn aesthetic.</p>
+<p><strong>Result: </strong>A consumer-facing advertisement that visually narrates the company's style through inimitable 3D furniture and room design.</p>
+</blockquote>
+<table style="border-collapse: collapse; width: 132.906%; height: 569px;" border="0">
+<tbody>
+<tr style="height: 317.703px;">
+<td style="width: 50.6834%; height: 317.703px;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Gemini_Generated_Image_gd8gmvgd8gmvgd8g.png" alt="" width="896" height="1056" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_gd8gmvgd8gmvgd8g-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_gd8gmvgd8gmvgd8g-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_gd8gmvgd8gmvgd8g-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_gd8gmvgd8gmvgd8g-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_gd8gmvgd8gmvgd8g-xl.png 1600w"></figure></td>
+<td class="align-center" style="width: 49.3166%; height: 317.703px;"><figure class="post__image align-center"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Introducing.png" alt="" width="441" height="514" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Introducing-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Introducing-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Introducing-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Introducing-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Introducing-xl.png 1600w"></figure></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 128.775%; height: 462px;" border="0">
+<tbody>
+<tr>
+<td style="width: 27.7901%;"> </td>
+<td style="width: 72.2099%;"><figure class="post__image"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Gemini_Generated_Image_e96xlne96xlne96x-2.png" alt="" width="1136" height="832" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_e96xlne96xlne96x-2-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_e96xlne96xlne96x-2-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_e96xlne96xlne96x-2-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_e96xlne96xlne96x-2-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Gemini_Generated_Image_e96xlne96xlne96x-2-xl.png 1600w"></figure></td>
+</tr>
+</tbody>
+</table>
+<figure class="post__image align-center"><img loading="lazy"  src="https://laharris833-prog.github.io/Portfolio/media/posts/1/Untitled-design-1.png" alt="" width="539" height="674" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Untitled-design-1-xs.png 384w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Untitled-design-1-sm.png 600w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Untitled-design-1-md.png 768w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Untitled-design-1-lg.png 1200w ,https://laharris833-prog.github.io/Portfolio/media/posts/1/responsive/Untitled-design-1-xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
